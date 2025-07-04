@@ -1,17 +1,6 @@
-# Global configuration (optional)
-
-{
-
-    # Uncomment and set your email to enable Caddy's automatic HTTPS 
-
-    # certificates and manage renewals:
-
-    # email you@example.com
-
-}
 
 
-softwavegroup.com {
+example.com {
 
     # Reverse proxy requests to local port 5000
 
